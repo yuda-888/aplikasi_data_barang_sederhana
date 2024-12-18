@@ -1,4 +1,4 @@
-silahkan untuk menginstall requirements.txt terlebih dahulu sebelum menjalankan aplikasi dengan cara 
+silahkan untuk menginstall requirements.txt terlebih dahulu sebelum menjalankan aplikasi dengan cara :
 
 python3 : pip3 install -r requirements.txt
 python 	: pip install -r requirements.txt
